@@ -43,7 +43,7 @@
 # 4 -> 1 2 3 4
 # 9
 
-n = int(input('Введите количество кустов в грядке: '))
-garden_bed = list(range(1, n+1))
-print(*garden_bed, sep=', ')
-print(sum(garden_bed[-3:]))
+# n = int(input('Введите количество кустов в грядке: '))
+# garden_bed = list(range(1, n+1))
+# print(*garden_bed, sep=', ')
+# print(sum(garden_bed[-3:]))
